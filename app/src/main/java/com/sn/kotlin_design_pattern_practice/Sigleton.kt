@@ -1,0 +1,3 @@
+package com.sn.kotlin_design_pattern_practice
+
+object SingletonExample
